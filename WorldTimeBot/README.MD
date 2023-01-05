@@ -5,7 +5,6 @@ WorldTimeBot displays time in any timezone and also converts time between 2 time
 -----------------------------------------------------------------------
 
 ## Bot features
-============
 
 1. Get the current time in any TimeZone.
 2. Convert time from one TimeZone to another TimeZone.
@@ -13,14 +12,12 @@ WorldTimeBot displays time in any timezone and also converts time between 2 time
 -----------------------------------------------------------------------
 
 ### Note
-=====
 1. Time can be in 12-hour or 24-hour format 
 2. TimeZone must be an abbreviation
 
 -----------------------------------------------------------------------
 
 ## Commands
-========
 
 #### now
 ---
