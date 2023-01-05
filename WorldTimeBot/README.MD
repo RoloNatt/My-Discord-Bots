@@ -19,7 +19,7 @@ WorldTimeBot displays time in any timezone and also converts time between 2 time
 
 ## Commands
 
-### 1. **now**
+### **now**
 Get current time in a TimeZone
 ##### Format
 /now [TimeZone]
@@ -28,7 +28,7 @@ Get current time in a TimeZone
 
 --------------------------------------
 
-### 2. **convert**
+### **convert**
 Converts time from one TimeZone to another TimeZone
 ##### Format
 /convert [hour]:[min] [from TimeZone] [to TimeZone]
