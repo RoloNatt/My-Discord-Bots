@@ -25,15 +25,17 @@ Get current time in a TimeZone
 /now [TimeZone]
 ##### Example
 /now EST
+
 --------------------------------------
 
 ### **convert**
 Converts time from one TimeZone to another TimeZone
 ##### Format
-/conv [hour]:[min] [from TimeZone] [to TimeZone]
+/convert [hour]:[min] [from TimeZone] [to TimeZone]
 ##### Example
-1. /conv 6pm EST IST 
-2. /conv 18:00 EST IST
+1. /convert 6pm EST IST 
+2. /convert 18:00 EST IST
 ##### Note
 If 'am' or 'pm' is not given in time, 24-hour clock is considered
+
 --------------------------------------
