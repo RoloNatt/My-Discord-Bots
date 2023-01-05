@@ -1,10 +1,10 @@
-#WorldTimeBot
+# WorldTimeBot
 
 WorldTimeBot displays time in any timezone and also converts time between 2 timezones.
 
 -----------------------------------------------------------------------
 
-##Bot features
+## Bot features
 ============
 
 1. Get the current time in any TimeZone.
@@ -12,23 +12,23 @@ WorldTimeBot displays time in any timezone and also converts time between 2 time
 
 -----------------------------------------------------------------------
 
-###Note
+### Note
 =====
 1. Time can be in 12-hour or 24-hour format 
 2. TimeZone must be an abbreviation
 
 -----------------------------------------------------------------------
 
-##Commands
+## Commands
 ========
 
-####now
+#### now
 ---
 Get current time in a TimeZone
-####Format
+#### Format
 -----
 /now [TimeZone]
-####Example
+#### Example
 -----
 /now EST
 >11:29 AM (EST-America/New_York)
