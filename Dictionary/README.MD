@@ -1,5 +1,7 @@
 # Dictionary
 
+[Dictionary invite link](https://discord.com/api/oauth2/authorize?client_id=824268426679812118&permissions=2147568640&scope=bot%20applications.commands)
+
 Dictionary gives definitions or synonyms of a word. Urban slangs, i.e., modern world's popular words and phrases are also supported.
 You can also translate a word to english from 6 different languages.
 
