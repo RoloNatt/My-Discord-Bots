@@ -1,5 +1,7 @@
 # WorldTimeBot
 
+[WorldTimeBot invite link](https://discord.com/api/oauth2/authorize?client_id=804619486639423518&permissions=2147567616&scope=bot%20applications.commands)
+
 WorldTimeBot displays time in any timezone and also converts time between 2 timezones.
 
 -----------------------------------------------------------------------
