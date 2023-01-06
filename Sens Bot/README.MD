@@ -1,5 +1,7 @@
 # Sens Bot
 
+[Sens Bot invite link](https://discord.com/api/oauth2/authorize?client_id=1012627570463887400&permissions=2147568704&scope=bot%20applications.commands)
+
 Sens Bot converts sensitivity between any 2 games. While entering the game's name, you get suggestions that reduce your typing time. You can even choose to change sensitivities using different DPIs.
 
 -----------------------------------------------------------------------
