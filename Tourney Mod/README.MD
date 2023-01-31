@@ -2,7 +2,7 @@
 
 [Tourney Mod Blog](https://rolocodes.hashnode.dev/tourney-mod-discord-bot)
 
-[Tourney Mod invite link](https://discord.com/api/oauth2/authorize?client_id=1032932441167495189&permissions=1110718934128&scope=bot%20applications.commands)
+[Tourney Mod invite link](https://discord.com/api/oauth2/authorize?client_id=1032932441167495189&permissions=560963046480&scope=bot%20applications.commands)
 
 Tourney Mod automates all the processes that a Tournament organizer or mod does in a discord server.
 
