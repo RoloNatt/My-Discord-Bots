@@ -15,6 +15,8 @@ You can also translate a word to english from 6 different languages.
 
 -----------------------------------------------------------------------
 
+![dict](https://user-images.githubusercontent.com/15999442/231450069-7540a93c-31bf-40f4-95be-259aed907318.PNG)
+
 ## Commands
 
 ### **define**
