@@ -13,6 +13,7 @@ Sens Bot converts sensitivity between any 2 games. While entering the game's nam
 3. Get new Sensitivity w.r.t to new DPI from old Sensitivity and DPI
 
 -----------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/15999442/231450888-e7a31005-2597-4ec5-9ba1-4d33630d6d35.png)
 
 ## Commands
 
