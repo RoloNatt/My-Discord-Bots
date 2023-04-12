@@ -18,6 +18,7 @@ WorldTimeBot displays time in any timezone and also converts time between 2 time
 2. TimeZone must be an abbreviation
 
 -----------------------------------------------------------------------
+![worldtim](https://user-images.githubusercontent.com/15999442/231450185-7ff658ee-67f3-4c4a-89b3-a11b8ffd1b31.PNG)
 
 ## Commands
 
