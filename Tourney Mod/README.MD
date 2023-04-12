@@ -4,6 +4,8 @@
 
 [Tourney Mod invite link](https://discord.com/api/oauth2/authorize?client_id=1032932441167495189&permissions=560963046480&scope=bot%20applications.commands)
 
+[Tourney Mod youtube video on how it works](https://www.youtube.com/watch?v=aj_XIuwCRCU)
+
 Tourney Mod automates all the processes that a Tournament organizer or mod does in a discord server.
 
 This bot lets a player register a team, add players, edit team. The registered teams go to the tournament organizers/mods that they can Approve or Decline.
