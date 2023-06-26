@@ -1,4 +1,6 @@
-# NoteTube
+# NoteTube 
+
+`⚠️ This bot has been discontinued as many other similar applications were launched later on more common platforms`
 
 [NoteTube invite link](https://discord.com/api/oauth2/authorize?client_id=1074579477251772426&permissions=2147534912&scope=bot%20applications.commands)
 
